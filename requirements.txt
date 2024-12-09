@@ -15,7 +15,7 @@ conda-package-handling @ file:///croot/conda-package-handling_1718138267740/work
 conda_package_streaming @ file:///croot/conda-package-streaming_1718136078615/work
 cryptography @ file:///croot/cryptography_1724940562255/work
 distro @ file:///croot/distro_1714488253808/work
-Flask==3.1.0
+Flask==2.3.2
 frozendict @ file:///croot/frozendict_1713194832637/work
 google-api-core==2.23.0
 google-auth==2.36.0
