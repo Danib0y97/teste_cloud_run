@@ -1,11 +1,13 @@
 anaconda-anon-usage @ file:///croot/anaconda-anon-usage_1710965072196/work
 archspec @ file:///croot/archspec_1709217642129/work
+blinker==1.9.0
 boltons @ file:///work/perseverance-python-buildout/croot/boltons_1698851177130/work
 Brotli @ file:///croot/brotli-split_1714483155106/work
 cachetools==5.5.0
 certifi @ file:///croot/certifi_1725551672989/work/certifi
 cffi @ file:///croot/cffi_1726856441404/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click==8.1.7
 conda @ file:///croot/conda_1729193882500/work
 conda-content-trust @ file:///croot/conda-content-trust_1714483159009/work
 conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1727775630457/work/src
@@ -13,6 +15,7 @@ conda-package-handling @ file:///croot/conda-package-handling_1718138267740/work
 conda_package_streaming @ file:///croot/conda-package-streaming_1718136078615/work
 cryptography @ file:///croot/cryptography_1724940562255/work
 distro @ file:///croot/distro_1714488253808/work
+Flask==3.1.0
 frozendict @ file:///croot/frozendict_1713194832637/work
 google-api-core==2.23.0
 google-auth==2.36.0
@@ -21,9 +24,12 @@ googleapis-common-protos==1.66.0
 grpcio==1.68.0
 grpcio-status==1.68.0
 idna @ file:///croot/idna_1714398848350/work
+itsdangerous==2.2.0
+Jinja2==3.1.4
 jsonpatch @ file:///croot/jsonpatch_1714483231291/work
 jsonpointer==2.1
 libmambapy @ file:///croot/mamba-split_1725563367192/work/libmambapy
+MarkupSafe==3.0.2
 menuinst @ file:///croot/menuinst_1723567589013/work
 packaging @ file:///croot/packaging_1720101850331/work
 pillow==11.0.0
@@ -44,5 +50,6 @@ setuptools==75.1.0
 tqdm @ file:///croot/tqdm_1724853939799/work
 truststore @ file:///work/perseverance-python-buildout/croot/truststore_1701735771625/work
 urllib3 @ file:///croot/urllib3_1727769808118/work
+Werkzeug==3.1.3
 wheel==0.44.0
 zstandard @ file:///croot/zstandard_1728569189425/work
