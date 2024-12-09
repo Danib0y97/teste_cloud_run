@@ -9,5 +9,5 @@ def hello_world():
 
 if __name__ == "__main__":
     # Pega a variável de ambiente PORT ou usa 8080 por padrão
-    port = int(os.getenv('PORT', 8080))
+    port =  8080
     app.run(host='0.0.0.0', port=port)
